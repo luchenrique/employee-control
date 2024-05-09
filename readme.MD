@@ -9,7 +9,7 @@ Creation of a CRUD for the registration of new employees.
 - Supabase
 
 ## Prerequisites
-- Node.js instalado (v18.20.2)
+- Node.js installed (v18.20.2)
 
 ## Getting Started
 
@@ -26,15 +26,5 @@ Creation of a CRUD for the registration of new employees.
    npm install
    ```
 
-3. **Set Up Database:**
-
-   - Ensure you have a running database server (e.g., PostgreSQL).
-   - Configure the database connection in the `prisma/client` file.
-   - Run Prisma migrations:
-
-     ```bash
-     npx prisma migrate dev
-     ```
-
-## Dev by 
+## Dev BY
 [Lucas Henrique](https://github.com/luchenrique)
